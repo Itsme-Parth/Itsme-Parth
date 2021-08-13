@@ -7,7 +7,7 @@ Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD
 <ul>
 <li> 💬 Ask me about anything!
 <li> 📫 Reach out to me: <a href = "mailto:parthc2001@gmail.com">parthc2001@gmail.com</a> 
-<li> 💻 I’m looking to collaborate on Hackathons
+<li> 💻 Hackathons are my thing! Feel free to reach out to collaborate.
 <li> ⚡ Fun fact: I also have a podcast <a href = "https://www.youtube.com/channel/UCJvVA8r2GbxTFInv72ELUZg">The Atypical Engineers</a>.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&show_icons=true&theme=radical)
