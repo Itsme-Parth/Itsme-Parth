@@ -5,10 +5,11 @@ I'm <b>Parth Chadha</b> a Software Developer from Yamunanagar,India. Pursuing my
 Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD.
 
 <ul>
-<li> 💬 Ask me about anything!
+<li> 🌱 I’m currently learning Next.js architecture and how to build production level apps
+<li> 💬 Contact me to discuss about intriguing algorithmic problems
 <li> 📫 Reach out to me: <a href = "mailto:parthc2001@gmail.com">parthc2001@gmail.com</a> 
-<li> 💻 Hackathons are my thing! Feel free to reach out to collaborate.
-<li> ⚡ Fun fact: I also have a podcast <a href = "https://www.youtube.com/channel/UCJvVA8r2GbxTFInv72ELUZg">The Atypical Engineers</a>.
+<li> 💻 Hackathons are my thing! Feel free to reach out to collaborate
+<li> ⚡ Fun fact: I also have a podcast <a href = "https://www.youtube.com/channel/UCJvVA8r2GbxTFInv72ELUZg">The Atypical Engineers</a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&show_icons=true&theme=radical)
 
