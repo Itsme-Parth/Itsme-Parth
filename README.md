@@ -13,6 +13,7 @@ Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD
 <li> ⚡ Fun fact: I also have a podcast <a href = "https://www.youtube.com/channel/UCJvVA8r2GbxTFInv72ELUZg">The Atypical Engineers</a>
 </ul>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&show_icons=true&theme=radical) -->
