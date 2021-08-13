@@ -5,7 +5,7 @@ I'm <b>Parth Chadha</b> a Software Developer from Yamunanagar,India. Pursuing my
 Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD.
 
 <ul>
-<li> 🌱 I’m currently learning Next.js to make web a beautiful place.
+<li> 🌱 I’m currently learning Next.js to make web a beautiful place
 <li> 💬 Contact me to discuss about intriguing algorithmic problems
 <li> 📫 Reach out to me: <a href = "mailto:parthc2001@gmail.com">parthc2001@gmail.com</a> 
 <li> 💻 Hackathons are my thing! Feel free to reach out to collaborate
