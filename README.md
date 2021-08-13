@@ -11,11 +11,11 @@ Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD
 <li> 📫 Reach out to me: <a href = "mailto:parthc2001@gmail.com">parthc2001@gmail.com</a> 
 <li> 💻 Hackathons are my thing! Feel free to reach out to collaborate
 <li> ⚡ Fun fact: I also have a podcast <a href = "https://www.youtube.com/channel/UCJvVA8r2GbxTFInv72ELUZg">The Atypical Engineers</a>
+</ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&show_icons=true&theme=radical) -->
-<div style="text-align: left"> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsme-Parth&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues)
-</div>
 
 <!--
 **Itsme-Parth/Itsme-Parth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
