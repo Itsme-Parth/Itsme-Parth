@@ -6,8 +6,8 @@ I'm <b>Parth Chadha</b>, a design-minded software engineer focused on building b
 Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD.
 
 <ul>
-<li> 🌱 I’m currently learning Next.js to make web a beautiful place
-<li> 💬 Contact me to discuss about intriguing algorithmic problems
+<li> 🌱 I’m currently learning Next.js to make the web a beautiful place
+<li> 💬 Contact me to discuss intriguing algorithmic problems
 <li> 📫 Reach out to me: <a href = "mailto:parthc2001@gmail.com">parthc2001@gmail.com</a> 
 <li> 💻 Hackathons are my thing! Feel free to reach out to collaborate
 <li> ⚡ Fun fact: I also have a podcast <a href = "https://www.youtube.com/channel/UCJvVA8r2GbxTFInv72ELUZg">The Atypical Engineers</a>
