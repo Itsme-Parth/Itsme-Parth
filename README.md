@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-I'm Parth Chadha a Software Developer from Yamunanagar,India. Pursuing my Bachelor's in Computer Science at Manipal University Jaipur.
+I'm <b>Parth Chadha</b> a Software Developer from Yamunanagar,India. Pursuing my Bachelor's in Computer Science at Manipal University Jaipur.
 
 Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD.
 
