@@ -3,7 +3,7 @@
 <!-- I'm <b>Parth Chadha</b> a Software Developer from Yamunanagar,India. Pursuing my Bachelor's in Computer Science at Manipal University Jaipur. -->
 I'm <b>Parth Chadha</b>, a design-minded software engineer focused on building beautiful interfaces & experiences👨‍💻
 
-Some of my key skills include - C/C++, React, JavaScript, MySQL, Figma, Adobe XD.
+Some of my key skills include - C/C++, React, JavaScript, SQL, Figma, Adobe XD
 
 <ul>
 <li> 🌱 I’m currently learning Next.js to make the web a beautiful place
